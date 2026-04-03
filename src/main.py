@@ -1,0 +1,1 @@
+def main():\n    print("Hello from ADLC Project 1")\n\nif __name__ == "__main__":\n    main()
